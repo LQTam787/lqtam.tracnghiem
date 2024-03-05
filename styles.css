@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #2c3e50;
-    color: #ecf0f1;
+    background-color: #502c2c;
+    color: #f1ecec;
     text-align: center;
     padding: 10px 0;
 }
@@ -16,7 +16,7 @@ main {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -53,8 +53,8 @@ li {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #2c3e50;
-    color: #ecf0f1;
+    background-color: #502c2c;
+    color: #f1ecec;
     position: fixed;
     bottom: 0;
     width: 100%;
